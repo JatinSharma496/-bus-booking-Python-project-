@@ -8,6 +8,7 @@ this repository have 9 pages
 ...
 
 and bus_booking_system is database file
+{run this file so thsat the db file can generate .. and populate tables.
 
 let me know if you have any doubt  or suggestion 
 thankyou😊
