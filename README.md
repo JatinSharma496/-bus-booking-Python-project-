@@ -32,7 +32,7 @@ It's a great learning project to understand how GUIs work in Python and how to i
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/bus-booking-system.git
+    git clone https://github.com/JatinSharma496/bus-booking-system.git
     ```
 2. Install required dependencies (if any):
     ```bash
