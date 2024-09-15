@@ -54,8 +54,8 @@ It's a great learning project to understand how GUIs work in Python and how to i
 ## Screenshots
 *Screenshots showcasing the GUI and various features of the system.*
 
-![Homepage](homelogo.png)
-
+![Homepage](homepage.png)
+![admin_page](admin.png)
 ## Video Demo
 *Watch the complete walkthrough of the project:*
 
