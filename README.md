@@ -9,13 +9,10 @@ Here's a well-structured `README.md` for your bus booking system project, showca
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Video Demo](#video-demo)
 - [File Structure](#file-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 This project is a **Bus Booking System** developed using **Python Tkinter** for the graphical user interface (GUI) and **SQLite** for the database. The application allows users to manage buses, routes, and operators, book tickets, and view booked seats.
