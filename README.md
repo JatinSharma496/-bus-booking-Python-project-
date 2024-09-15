@@ -82,9 +82,4 @@ It's a great learning project to understand how GUIs work in Python and how to i
 ## Contributing
 Contributions are welcome! Feel free to submit a pull request with any improvements or features you'd like to see.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-This `README.md` is designed to clearly explain your project and guide anyone interested in running it or contributing to it. It also includes placeholders for screenshots and video demo links that you can upload later.
