@@ -29,21 +29,7 @@ It's a great learning project to understand how GUIs work in Python and how to i
 - **Separate admin interface** for adding new buses, routes, and operators.
 - **Interactive front page** and smooth navigation between screens.
 
-## Installation
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/JatinSharma496/bus-booking-system.git
-    ```
-2. Install required dependencies (if any):
-    ```bash
-    pip install -r requirements.txt
-    ```
-    *(Ensure Tkinter is installed on your system. It usually comes pre-installed with Python.)*
 
-3. Run the application by opening `bus_booking_system.py`:
-    ```bash
-    python bus_booking_system.py
-    ```
 
 ## Usage
 ### Running the Application:
