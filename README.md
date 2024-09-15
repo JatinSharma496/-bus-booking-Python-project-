@@ -1,5 +1,3 @@
-Here's a well-structured `README.md` for your bus booking system project, showcasing key features, functionality, and how to run the project:
-
 ---
 
 # Bus Booking System
